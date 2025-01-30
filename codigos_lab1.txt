@@ -1,0 +1,41 @@
+sudo su: sirve para entrar en super usuario.
+
+nmtui: sirve para configurar redes mediante la terminal.
+
+nmcli: sirve para ver toda la información relacionada a nuestra red y nuestra tarjeta de red.
+
+sudo ifconfig: sirve para ver la información de nuestra tarjeta de red.
+
+sudo ifconfig enp0s3 down/up: sirven para desconectarse y conectarse de la red.
+
+clear: sirve para limpiar la terminal.
+
+useradd/userdel(user name): sirve para crear y eliminar usuarios.
+
+groupadd/groupdel(group name): sirve para crear y eliminar grupos.
+
+sudo nano /etc/sudoers: sirve para entrar en la configuración de sudoers.
+
+geten group: sirve para enlistar los usuarios y grupos.
+
+adduser (username) (group name): sirve para mover un usuario a un grupo en especifico.
+
+pwd: nos dice en que carpeta estamos ubicados.
+
+cd (file name): sirve para movernos entre carpetas.
+
+cd .. : sirve para regresar o ir atras de una carpeta.
+
+mkdir: sirve para crear carpetas.
+
+touch(file name .txt): sirve para crear archivos .txt.
+
+sudo vi (file name .txt): sirve para editar el archivo.
+
+cat (file name .txt): sirve para ver el contenido del archivo sin necesidad de entrar en el archivo.
+
+chmod (700, 070): sirve para dar permisos a usuarios y grupos especificos.
+
+cp (file name.txt, path): sirve para mover un archivo de una carpeta a otro destino.
+
+rm, rm -r (file name): sirven para eliminar tanto carpetas como documentos, uno puedo eliminar repositorios a diferencia del otro.
